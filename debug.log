@@ -529,3 +529,385 @@ C:\fakepath(145,8-40): warning X3571: pow(f, e) will not work for negative f, us
 C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
 C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
 
+[0909/215514.362:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.c524503b3888dab273d7.js (1)
+[0909/215514.372:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.c524503b3888dab273d7.js (1)
+[0909/215514.380:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.c524503b3888dab273d7.js (1)
+[0909/215514.381:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.c524503b3888dab273d7.js (1)
+[0909/215514.672:INFO:CONSOLE(9)] "Unhandled rejection: OpenFailedError: AbortError TimeoutError Transaction timed out due to inactivity.
+    at be.create (https://web.whatsapp.com/vendor1~app.819d915aba1af3a64788.js:9:74933)
+    at e (https://web.whatsapp.com/vendor1~app.819d915aba1af3a64788.js:9:67141)
+    at https://web.whatsapp.com/vendor1~app.819d915aba1af3a64788.js:9:67429
+    at https://web.whatsapp.com/vendor1~app.819d915aba1af3a64788.js:9:51719
+    at Fe (https://web.whatsapp.com/vendor1~app.819d915aba1af3a64788.js:9:46934)
+    at Ye (https://web.whatsapp.com/vendor1~app.819d915aba1af3a64788.js:9:47419)
+    at IDBTransaction.<anonymous> (https://web.whatsapp.com/vendor1~app.819d915aba1af3a64788.js:9:47788)", source: https://web.whatsapp.com/vendor1~app.819d915aba1af3a64788.js (9)
+[0909/230118.727:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.c524503b3888dab273d7.js (1)
+[0909/230118.871:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.c524503b3888dab273d7.js (1)
+[0909/230145.516:WARNING:sync_reader.cc(170)] ASR: No room in socket buffer.: È in corso la chiusura della pipe. (0xE8)
+[0910/185913.479:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.17f32c3e052f1418dacb.js (1)
+[0910/194541.987:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.17f32c3e052f1418dacb.js (1)
+[0910/195208.713:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.17f32c3e052f1418dacb.js (1)
+[0910/195519.099:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.17f32c3e052f1418dacb.js (1)
+[0910/201040.092:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'innerHTML' of null", source: about:blank (1)
+[0910/204416.088:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.17f32c3e052f1418dacb.js (1)
+[0910/204705.680:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'innerHTML' of null", source: about:blank (1)
+[0910/204750.915:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0910/204750.929:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0910/204755.669:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0910/225504.543:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.17f32c3e052f1418dacb.js (1)
+[0910/225504.544:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.17f32c3e052f1418dacb.js (1)
+[0910/225504.545:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.17f32c3e052f1418dacb.js (1)
+[0910/225504.548:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.17f32c3e052f1418dacb.js (1)
+[0910/225504.561:INFO:CONSOLE(1)] "ChunkLoadError: Loading chunk 132 failed.
+(timeout: https://web.whatsapp.com/svg.764abcb9797b8d3ac4d0.js)", source: https://web.whatsapp.com/app.17f32c3e052f1418dacb.js (1)
+[0910/225504.567:INFO:CONSOLE(9)] "Unhandled rejection: OpenFailedError: AbortError TimeoutError Transaction timed out due to inactivity.
+    at be.create (https://web.whatsapp.com/vendor1~app.e941c55677c41db9ac75.js:9:75108)
+    at e (https://web.whatsapp.com/vendor1~app.e941c55677c41db9ac75.js:9:67316)
+    at https://web.whatsapp.com/vendor1~app.e941c55677c41db9ac75.js:9:67604
+    at https://web.whatsapp.com/vendor1~app.e941c55677c41db9ac75.js:9:51894
+    at Fe (https://web.whatsapp.com/vendor1~app.e941c55677c41db9ac75.js:9:47109)
+    at Ye (https://web.whatsapp.com/vendor1~app.e941c55677c41db9ac75.js:9:47594)
+    at IDBTransaction.<anonymous> (https://web.whatsapp.com/vendor1~app.e941c55677c41db9ac75.js:9:47963)", source: https://web.whatsapp.com/vendor1~app.e941c55677c41db9ac75.js (9)
+[0910/225504.571:INFO:CONSOLE(1)] "ChunkLoadError: Loading chunk 132 failed.
+(error: https://web.whatsapp.com/svg.764abcb9797b8d3ac4d0.js)", source: https://web.whatsapp.com/app.17f32c3e052f1418dacb.js (1)
+[0910/225737.492:INFO:CONSOLE(0)] "The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy.", source: https://web.whatsapp.com/ (0)
+[0910/231559.282:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0910/231559.716:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0910/231904.658:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'innerHTML' of null", source: about:blank (1)
+[0910/232104.815:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.17f32c3e052f1418dacb.js (1)
+[0912/021311.949:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0912/021312.419:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0912/110747.448:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0912/110748.165:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0912/110804.177:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.17f32c3e052f1418dacb.js (1)
+[0912/122428.736:INFO:CONSOLE(0)] "The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy.", source: https://web.whatsapp.com/ (0)
+[0914/180138.649:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_NAME_NOT_RESOLVED", source: https://web.whatsapp.com/app.17f32c3e052f1418dacb.js (1)
+[0915/221044.874:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.078346a60a3074dee416.js (1)
+[0915/225346.672:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'innerHTML' of null", source: about:blank (1)
+[0915/234644.759:WARNING:sync_reader.cc(170)] ASR: No room in socket buffer.: È in corso la chiusura della pipe. (0xE8)
+[0915/234644.959:WARNING:sync_reader.cc(188)] SyncReader::Read timed out, audio glitch count=10
+[0916/235530.520:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0917/211428.873:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.078346a60a3074dee416.js (1)
+[0917/211428.875:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.078346a60a3074dee416.js (1)
+[0917/211428.875:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.078346a60a3074dee416.js (1)
+[0917/211428.984:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.078346a60a3074dee416.js (1)
+[0917/212938.841:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.078346a60a3074dee416.js (1)
+[0917/212938.842:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.078346a60a3074dee416.js (1)
+[0917/212938.843:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.078346a60a3074dee416.js (1)
+[0917/212938.844:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.078346a60a3074dee416.js (1)
+[0917/213401.703:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.078346a60a3074dee416.js (1)
+[0917/213401.704:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.078346a60a3074dee416.js (1)
+[0917/221053.373:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.078346a60a3074dee416.js (1)
+[0917/221053.374:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.078346a60a3074dee416.js (1)
+[0917/221053.376:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.078346a60a3074dee416.js (1)
+[0917/221959.337:INFO:CONSOLE(9)] "Unhandled rejection: OpenFailedError: AbortError TimeoutError Transaction timed out due to inactivity.
+    at be.create (https://web.whatsapp.com/vendor1~app.e941c55677c41db9ac75.js:9:75108)
+    at e (https://web.whatsapp.com/vendor1~app.e941c55677c41db9ac75.js:9:67316)
+    at https://web.whatsapp.com/vendor1~app.e941c55677c41db9ac75.js:9:67604
+    at https://web.whatsapp.com/vendor1~app.e941c55677c41db9ac75.js:9:51894
+    at Fe (https://web.whatsapp.com/vendor1~app.e941c55677c41db9ac75.js:9:47109)
+    at Ye (https://web.whatsapp.com/vendor1~app.e941c55677c41db9ac75.js:9:47594)
+    at IDBTransaction.<anonymous> (https://web.whatsapp.com/vendor1~app.e941c55677c41db9ac75.js:9:47963)", source: https://web.whatsapp.com/vendor1~app.e941c55677c41db9ac75.js (9)
+[0917/221959.347:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.078346a60a3074dee416.js (1)
+[0917/221959.347:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.078346a60a3074dee416.js (1)
+[0917/221959.348:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.078346a60a3074dee416.js (1)
+[0917/221959.349:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.078346a60a3074dee416.js (1)
+[0917/222201.559:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.078346a60a3074dee416.js (1)
+[0917/222201.571:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.078346a60a3074dee416.js (1)
+[0917/235522.369:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_NETWORK_IO_SUSPENDED", source: https://web.whatsapp.com/app.078346a60a3074dee416.js (1)
+[0917/235522.548:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_NETWORK_IO_SUSPENDED", source: https://web.whatsapp.com/app.078346a60a3074dee416.js (1)
+[0918/184834.569:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0918/184915.447:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.078346a60a3074dee416.js (1)
+[0918/203301.988:INFO:CONSOLE(0)] "The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy.", source: https://faq.whatsapp.com/web/troubleshooting/cant-connect-to-whatsapp-web-or-desktop (0)
+[0919/122708.474:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0919/123257.548:INFO:CONSOLE(0)] "The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy.", source: https://web.whatsapp.com/ (0)
+[0919/144919.025:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.078346a60a3074dee416.js (1)
+[0919/152056.093:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'innerHTML' of null", source: about:blank (1)
+[0919/160708.460:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.078346a60a3074dee416.js (1)
+[0919/212111.001:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: data source error"}
+[0919/212111.002:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":9}
+[0919/221613.991:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.078346a60a3074dee416.js (1)
+[0919/221613.992:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.078346a60a3074dee416.js (1)
+[0920/004411.531:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0920/004933.857:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.078346a60a3074dee416.js (1)
+[0920/010757.339:WARNING:sync_reader.cc(170)] ASR: No room in socket buffer.: È in corso la chiusura della pipe. (0xE8)
+[0920/015224.818:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.078346a60a3074dee416.js (1)
+[0920/015224.819:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.078346a60a3074dee416.js (1)
+[0920/122837.970:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_NETWORK_IO_SUSPENDED", source: https://web.whatsapp.com/app.078346a60a3074dee416.js (1)
+[0920/122838.308:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_NETWORK_IO_SUSPENDED", source: https://web.whatsapp.com/app.078346a60a3074dee416.js (1)
+[0920/122845.065:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_NETWORK_IO_SUSPENDED", source: https://web.whatsapp.com/app.078346a60a3074dee416.js (1)
+[0920/122849.035:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_NETWORK_IO_SUSPENDED", source: https://web.whatsapp.com/app.078346a60a3074dee416.js (1)
+[0920/181508.465:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_NETWORK_IO_SUSPENDED", source: https://web.whatsapp.com/app.078346a60a3074dee416.js (1)
+[0920/181518.450:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_NETWORK_IO_SUSPENDED", source: https://web.whatsapp.com/app.078346a60a3074dee416.js (1)
+[1107/003401.429:WARNING:gpu_process_host.cc(1217)] The GPU process has crashed 1 time(s)
+[1107/003401.447:ERROR:network_service_instance_impl.cc(262)] Network service crashed, restarting service.
+[1107/163947.389:WARNING:gpu_process_host.cc(1217)] The GPU process has crashed 1 time(s)
+[1107/163947.426:ERROR:network_service_instance_impl.cc(262)] Network service crashed, restarting service.
+[1226/130447.992:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.6be31a9914b3f8e528be.js (1)
+[1226/130447.994:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.6be31a9914b3f8e528be.js (1)
+[1226/130447.994:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.6be31a9914b3f8e528be.js (1)
+[1226/130447.995:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.6be31a9914b3f8e528be.js (1)
+[1226/130526.359:INFO:CONSOLE(1)] "Unable to preventDefault inside passive event listener due to target being treated as passive. See https://www.chromestatus.com/features/6662647093133312", source: https://web.whatsapp.com/app.6be31a9914b3f8e528be.js (1)
+[1226/130820.722:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.6be31a9914b3f8e528be.js (1)
+[1226/130820.723:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.6be31a9914b3f8e528be.js (1)
+[1226/130820.724:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.6be31a9914b3f8e528be.js (1)
+[1227/030129.932:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_NETWORK_IO_SUSPENDED", source: https://web.whatsapp.com/app.6be31a9914b3f8e528be.js (1)
+[1227/030130.048:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_NETWORK_IO_SUSPENDED", source: https://web.whatsapp.com/app.6be31a9914b3f8e528be.js (1)
+[1227/115703.023:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1227/115703.139:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1227/115740.091:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_NAME_NOT_RESOLVED", source: https://web.whatsapp.com/app.6be31a9914b3f8e528be.js (1)
+[1227/122149.910:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[1227/122149.911:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[1227/122152.128:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[1227/122152.129:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[1228/001549.914:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: data source error"}
+[1228/001549.917:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":9}
+[1228/020847.766:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/020847.795:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/020852.910:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/020853.124:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/020857.975:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/020858.323:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/020902.989:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/020903.427:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/020908.004:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/020908.454:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/020909.453:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_NAME_NOT_RESOLVED", source: https://web.whatsapp.com/app.6be31a9914b3f8e528be.js (1)
+[1228/020909.816:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_NAME_NOT_RESOLVED", source: https://web.whatsapp.com/app.6be31a9914b3f8e528be.js (1)
+[1228/020913.068:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/020913.541:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/020917.712:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_NAME_NOT_RESOLVED", source: https://web.whatsapp.com/app.6be31a9914b3f8e528be.js (1)
+[1228/020918.078:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/020918.872:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/020923.109:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/020923.842:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_NAME_NOT_RESOLVED", source: https://web.whatsapp.com/app.6be31a9914b3f8e528be.js (1)
+[1228/020923.961:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/020928.121:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/020929.001:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/020933.139:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/020934.052:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/020938.152:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/020939.074:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/020943.171:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/020945.542:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/020948.194:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/020953.212:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/020954.341:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/020958.228:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021002.601:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021003.248:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021007.826:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021008.265:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021013.210:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021013.281:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021018.301:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021020.911:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021023.315:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021028.051:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021028.333:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021033.350:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021035.982:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021038.369:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021043.456:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021044.937:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021048.478:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021053.338:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021053.494:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021058.508:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021101.084:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021103.528:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021108.548:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021109.664:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021113.566:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021117.602:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021118.580:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021123.600:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021125.801:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021128.616:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021133.633:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021133.750:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021138.650:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021141.414:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021143.664:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021148.678:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021148.882:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021153.702:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021157.599:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021158.718:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021203.750:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021206.673:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021208.768:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021213.784:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021215.925:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021218.801:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021223.815:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021224.577:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021228.829:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021230.033:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021233.849:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021238.582:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021238.874:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021243.890:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021246.915:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021248.913:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021253.936:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021254.826:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021258.954:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021303.029:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021303.969:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021308.986:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021311.082:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021314.002:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021318.902:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021319.016:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021324.029:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021326.417:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021329.046:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021334.062:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021334.174:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021339.081:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021342.074:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021344.096:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021349.111:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021350.420:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021354.135:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021358.507:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021359.151:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021404.166:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021406.546:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021409.182:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021414.047:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021414.199:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021419.217:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021421.493:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021424.233:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021429.248:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021429.630:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021434.272:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021438.653:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021439.293:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021442.149:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_NAME_NOT_RESOLVED", source: https://web.whatsapp.com/app.6be31a9914b3f8e528be.js (1)
+[1228/021444.359:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021449.023:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021449.375:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021454.059:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/021454.390:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022659.319:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022700.802:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022701.082:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022704.395:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022705.953:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022707.898:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022709.839:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022711.240:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022715.420:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022716.281:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022720.071:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022720.326:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_NAME_NOT_RESOLVED", source: https://web.whatsapp.com/app.6be31a9914b3f8e528be.js (1)
+[1228/022720.438:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022721.306:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022723.966:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_NAME_NOT_RESOLVED", source: https://web.whatsapp.com/app.6be31a9914b3f8e528be.js (1)
+[1228/022725.462:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022726.319:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022728.837:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022730.413:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_NAME_NOT_RESOLVED", source: https://web.whatsapp.com/app.6be31a9914b3f8e528be.js (1)
+[1228/022730.476:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022731.337:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022735.490:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022736.352:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022736.870:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022740.504:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022741.370:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022744.429:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022745.539:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022745.581:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_NAME_NOT_RESOLVED", source: https://web.whatsapp.com/app.6be31a9914b3f8e528be.js (1)
+[1228/022746.425:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022750.593:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022751.522:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022755.659:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022756.620:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022800.686:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022801.774:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022804.956:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022805.746:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022806.793:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022810.761:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022811.808:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022813.649:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022815.775:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022816.827:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022820.801:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022821.847:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022823.883:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022825.813:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022826.868:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022830.834:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022831.900:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/022833.494:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/190220.725:INFO:CONSOLE(0)] "The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy.", source: https://web.whatsapp.com/ (0)
+[1228/190223.109:INFO:CONSOLE(0)] "The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy.", source: https://web.whatsapp.com/ (0)
+[1228/201536.937:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.6be31a9914b3f8e528be.js (1)
+[1228/201536.938:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.6be31a9914b3f8e528be.js (1)
+[1228/201536.939:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.6be31a9914b3f8e528be.js (1)
+[1228/201536.941:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.6be31a9914b3f8e528be.js (1)
+[1228/201536.942:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.6be31a9914b3f8e528be.js (1)
+[1228/201536.943:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.6be31a9914b3f8e528be.js (1)
+[1228/223007.135:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223007.293:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223012.160:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223012.324:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223017.175:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223017.340:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223018.889:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_NAME_NOT_RESOLVED", source: https://web.whatsapp.com/app.6be31a9914b3f8e528be.js (1)
+[1228/223018.952:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_NAME_NOT_RESOLVED", source: https://web.whatsapp.com/app.6be31a9914b3f8e528be.js (1)
+[1228/223022.207:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223022.355:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223025.901:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_NAME_NOT_RESOLVED", source: https://web.whatsapp.com/app.6be31a9914b3f8e528be.js (1)
+[1228/223027.224:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223027.382:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223032.236:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223032.402:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223032.907:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_NAME_NOT_RESOLVED", source: https://web.whatsapp.com/app.6be31a9914b3f8e528be.js (1)
+[1228/223037.251:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223037.435:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223042.266:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223042.467:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223047.277:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223047.483:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223052.289:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223052.506:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223057.299:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223057.528:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223102.316:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223102.550:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223107.335:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223107.576:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223112.351:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223112.597:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223117.362:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223117.620:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223122.384:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223123.792:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223127.397:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223128.983:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223132.417:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223136.411:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223137.432:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223142.448:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223143.873:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223147.460:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223151.424:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223152.472:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223157.489:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223159.025:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223202.508:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223206.374:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223207.527:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223212.542:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223213.864:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223217.558:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223221.213:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223222.571:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223226.664:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223227.586:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1228/223232.600:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
