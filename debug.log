@@ -1,0 +1,531 @@
+[0818/211350.001:INFO:CONSOLE(33)] "JQMIGRATE: Migrate is installed, version 3.0.1", source: https://ourcodeworld.com/assets/vendor/jquery/jquery-migrate.min.js (33)
+[0818/211350.618:INFO:CONSOLE(0)] "Access to XMLHttpRequest at 'https://prebid-stag.setupad.net/openrtb2/auction' from origin 'https://ourcodeworld.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.", source: https://ourcodeworld.com/ (0)
+[0818/211350.619:INFO:CONSOLE(0)] "Access to XMLHttpRequest at 'https://prebid-stag.setupad.net/cookie_sync' from origin 'https://ourcodeworld.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.", source: https://ourcodeworld.com/ (0)
+[0818/211350.665:INFO:CONSOLE(0)] "Access to XMLHttpRequest at 'https://prebid-stag.setupad.net/cookie_sync' from origin 'https://ourcodeworld.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.", source: https://ourcodeworld.com/ (0)
+[0818/211350.746:INFO:CONSOLE(0)] "Access to XMLHttpRequest at 'https://prebid-stag.setupad.net/openrtb2/auction' from origin 'https://ourcodeworld.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.", source: https://ourcodeworld.com/ (0)
+[0818/211351.322:INFO:CONSOLE(422)] "Powered by AMP ⚡ HTML – Version 2008102328000 https://ourcodeworld.com/", source: https://cdn.ampproject.org/rtv/012008102328000/amp4ads-v0.js (422)
+[0818/211351.350:INFO:CONSOLE(4)] "'window.webkitStorageInfo' is deprecated. Please use 'navigator.webkitTemporaryStorage' or 'navigator.webkitPersistentStorage' instead.", source:  (4)
+[0818/211353.970:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://biddr.brealtime.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://ourcodeworld.com/ (0)
+[0818/211354.017:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -113
+[0818/211354.049:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -107
+[0818/211354.053:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at https://simpli.fi/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://ourcodeworld.com/ (0)
+[0818/211354.192:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://yahoo.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://ourcodeworld.com/ (0)
+[0818/211354.234:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at https://yahoo.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://ourcodeworld.com/ (0)
+[0818/211354.234:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://widespace.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://ourcodeworld.com/ (0)
+[0818/211354.269:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -107
+[0818/211354.303:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://tribalfusion.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://ourcodeworld.com/ (0)
+[0818/211354.390:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://ads.playground.xyz/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://ourcodeworld.com/ (0)
+[0818/211354.477:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://match.justpremium.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://ourcodeworld.com/ (0)
+[0818/211354.506:INFO:CONSOLE(0)] "A cookie associated with a resource at http://blismedia.com/ was set with `SameSite=None` but without `Secure`. A future release of Chrome will only deliver cookies marked `SameSite=None` if they are also marked `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5633521622188032.", source: https://ourcodeworld.com/ (0)
+[0818/211354.566:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://emerse.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://ourcodeworld.com/ (0)
+[0818/211354.969:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://advangelists.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://ourcodeworld.com/ (0)
+[0818/211416.535:INFO:CONSOLE(33)] "JQMIGRATE: Migrate is installed, version 3.0.1", source: https://ourcodeworld.com/assets/vendor/jquery/jquery-migrate.min.js (33)
+[0818/211417.124:INFO:CONSOLE(0)] "Access to XMLHttpRequest at 'https://prebid-stag.setupad.net/openrtb2/auction' from origin 'https://ourcodeworld.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.", source: https://ourcodeworld.com/ (0)
+[0818/211417.124:INFO:CONSOLE(0)] "Access to XMLHttpRequest at 'https://prebid-stag.setupad.net/cookie_sync' from origin 'https://ourcodeworld.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.", source: https://ourcodeworld.com/ (0)
+[0818/211417.189:INFO:CONSOLE(0)] "Access to XMLHttpRequest at 'https://prebid-stag.setupad.net/cookie_sync' from origin 'https://ourcodeworld.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.", source: https://ourcodeworld.com/ (0)
+[0818/211417.238:INFO:CONSOLE(0)] "Access to XMLHttpRequest at 'https://prebid-stag.setupad.net/openrtb2/auction' from origin 'https://ourcodeworld.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.", source: https://ourcodeworld.com/ (0)
+[0818/211417.936:INFO:CONSOLE(4)] "'window.webkitStorageInfo' is deprecated. Please use 'navigator.webkitTemporaryStorage' or 'navigator.webkitPersistentStorage' instead.", source:  (4)
+[0818/211418.030:INFO:CONSOLE(422)] "Powered by AMP ⚡ HTML – Version 2008102328000 https://ourcodeworld.com/", source: https://cdn.ampproject.org/rtv/012008102328000/amp4ads-v0.js (422)
+[0818/211420.686:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://biddr.brealtime.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://ourcodeworld.com/ (0)
+[0818/211420.728:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -113
+[0818/211420.782:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at https://simpli.fi/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://ourcodeworld.com/ (0)
+[0818/211420.882:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -107
+[0818/211420.883:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -107
+[0818/211420.995:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://yahoo.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://ourcodeworld.com/ (0)
+[0818/211420.996:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at https://yahoo.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://ourcodeworld.com/ (0)
+[0818/211421.269:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://ads.playground.xyz/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://ourcodeworld.com/ (0)
+[0818/211421.359:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://widespace.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://ourcodeworld.com/ (0)
+[0818/211421.387:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://tribalfusion.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://ourcodeworld.com/ (0)
+[0818/211421.459:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://extend.tv/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://ourcodeworld.com/ (0)
+[0818/211421.526:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://match.justpremium.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://ourcodeworld.com/ (0)
+[0818/211422.251:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://advangelists.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://ourcodeworld.com/ (0)
+[0818/211435.019:INFO:CONSOLE(33)] "JQMIGRATE: Migrate is installed, version 3.0.1", source: https://ourcodeworld.com/assets/vendor/jquery/jquery-migrate.min.js (33)
+[0818/211435.574:INFO:CONSOLE(0)] "Access to XMLHttpRequest at 'https://prebid-stag.setupad.net/openrtb2/auction' from origin 'https://ourcodeworld.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.", source: https://ourcodeworld.com/ (0)
+[0818/211435.574:INFO:CONSOLE(0)] "Access to XMLHttpRequest at 'https://prebid-stag.setupad.net/cookie_sync' from origin 'https://ourcodeworld.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.", source: https://ourcodeworld.com/ (0)
+[0818/211435.630:INFO:CONSOLE(0)] "Access to XMLHttpRequest at 'https://prebid-stag.setupad.net/cookie_sync' from origin 'https://ourcodeworld.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.", source: https://ourcodeworld.com/ (0)
+[0818/211436.443:INFO:CONSOLE(0)] "Access to XMLHttpRequest at 'https://prebid-stag.setupad.net/openrtb2/auction' from origin 'https://ourcodeworld.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.", source: https://ourcodeworld.com/ (0)
+[0818/211438.932:INFO:CONSOLE(422)] "Powered by AMP ⚡ HTML – Version 2008102328000 https://ourcodeworld.com/", source: https://cdn.ampproject.org/rtv/012008102328000/amp4ads-v0.js (422)
+[0818/211439.011:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://biddr.brealtime.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://ourcodeworld.com/ (0)
+[0818/211439.020:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -113
+[0818/211439.144:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -107
+[0818/211439.284:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at https://simpli.fi/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://ourcodeworld.com/ (0)
+[0818/211440.542:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://ads.playground.xyz/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://ourcodeworld.com/ (0)
+[0818/211440.843:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://yahoo.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://ourcodeworld.com/ (0)
+[0818/211440.844:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at https://yahoo.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://ourcodeworld.com/ (0)
+[0818/211440.864:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -107
+[0818/211440.924:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://rfihub.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://ourcodeworld.com/ (0)
+[0818/211441.059:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://tribalfusion.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://ourcodeworld.com/ (0)
+[0818/211441.221:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://widespace.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://ourcodeworld.com/ (0)
+[0818/211441.549:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://match.justpremium.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://ourcodeworld.com/ (0)
+[0818/211441.701:INFO:CONSOLE(0)] "A cookie associated with a resource at http://blismedia.com/ was set with `SameSite=None` but without `Secure`. A future release of Chrome will only deliver cookies marked `SameSite=None` if they are also marked `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5633521622188032.", source: https://ourcodeworld.com/ (0)
+[0818/211455.090:INFO:CONSOLE(33)] "JQMIGRATE: Migrate is installed, version 3.0.1", source: https://ourcodeworld.com/assets/vendor/jquery/jquery-migrate.min.js (33)
+[0818/211455.396:INFO:CONSOLE(0)] "Access to XMLHttpRequest at 'https://prebid-stag.setupad.net/cookie_sync' from origin 'https://ourcodeworld.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.", source: https://ourcodeworld.com/search?q=whatsapp+web (0)
+[0818/211455.594:INFO:CONSOLE(0)] "Access to XMLHttpRequest at 'https://prebid-stag.setupad.net/openrtb2/auction' from origin 'https://ourcodeworld.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.", source: https://ourcodeworld.com/search?q=whatsapp+web (0)
+[0818/211455.607:INFO:CONSOLE(0)] "Access to XMLHttpRequest at 'https://prebid-stag.setupad.net/cookie_sync' from origin 'https://ourcodeworld.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.", source: https://ourcodeworld.com/search?q=whatsapp+web (0)
+[0818/211455.634:INFO:CONSOLE(0)] "Access to XMLHttpRequest at 'https://prebid-stag.setupad.net/openrtb2/auction' from origin 'https://ourcodeworld.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.", source: https://ourcodeworld.com/search?q=whatsapp+web (0)
+[0818/211455.722:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://prebid-stag.setupad.net/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://ourcodeworld.com/search?q=whatsapp+web (0)
+[0818/211455.808:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://yahoo.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://ourcodeworld.com/search?q=whatsapp+web (0)
+[0818/211455.808:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at https://yahoo.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://ourcodeworld.com/search?q=whatsapp+web (0)
+[0818/211456.054:INFO:CONSOLE(4)] "'window.webkitStorageInfo' is deprecated. Please use 'navigator.webkitTemporaryStorage' or 'navigator.webkitPersistentStorage' instead.", source:  (4)
+[0818/211456.072:INFO:CONSOLE(422)] "Powered by AMP ⚡ HTML – Version 2008102328000 https://ourcodeworld.com/search?q=whatsapp+web", source: https://cdn.ampproject.org/rtv/012008102328000/amp4ads-v0.js (422)
+[0818/211456.078:INFO:CONSOLE(0)] "A cookie associated with a resource at http://id.sharedid.org/ was set with `SameSite=None` but without `Secure`. A future release of Chrome will only deliver cookies marked `SameSite=None` if they are also marked `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5633521622188032.", source: https://ourcodeworld.com/search?q=whatsapp+web (0)
+[0818/211456.204:INFO:CONSOLE(422)] "Powered by AMP ⚡ HTML – Version 2008102328000 https://ourcodeworld.com/search?q=whatsapp+web", source: https://cdn.ampproject.org/rtv/012008102328000/amp4ads-v0.js (422)
+[0818/211458.452:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://metaffiliation.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://ourcodeworld.com/search?q=whatsapp+web (0)
+[0818/211458.628:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://www.piscine-center.net/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://ourcodeworld.com/search?q=whatsapp+web (0)
+[0818/211458.775:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://biddr.brealtime.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://ourcodeworld.com/search?q=whatsapp+web (0)
+[0818/211458.878:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at https://simpli.fi/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://ourcodeworld.com/search?q=whatsapp+web (0)
+[0818/211459.011:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://emerse.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://ourcodeworld.com/search?q=whatsapp+web (0)
+[0818/211459.249:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://advangelists.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://ourcodeworld.com/search?q=whatsapp+web (0)
+[0818/211459.340:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://extend.tv/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://ourcodeworld.com/search?q=whatsapp+web (0)
+[0818/220252.967:ERROR:command_buffer_proxy_impl.cc(122)] ContextResult::kTransientFailure: Failed to send GpuChannelMsg_CreateCommandBuffer.
+[0819/011847.590:INFO:CONSOLE(0)] "The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy.", source: https://web.whatsapp.com/ (0)
+[0819/011949.086:INFO:CONSOLE(0)] "The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy.", source: https://web.whatsapp.com/ (0)
+[0819/170320.090:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0819/172413.970:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0819/172915.067:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0819/172916.830:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(133,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(145,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0819/172924.527:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(49,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(61,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0819/173002.381:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0819/173003.586:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(133,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(145,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0819/173007.905:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(49,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(61,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0819/173301.685:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0819/175717.372:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0819/180425.870:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0819/181737.671:INFO:CONSOLE(0)] "The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy.", source: https://web.whatsapp.com/ (0)
+[0819/182029.979:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0821/140346.255:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0821/141545.146:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(133,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(145,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0821/141718.537:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(133,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(145,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0821/141734.406:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0821/141734.580:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(49,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(61,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0821/142104.614:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0821/142556.878:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(133,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(145,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0821/142559.272:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0821/142613.572:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(49,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(61,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0821/142750.035:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0821/143645.568:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(133,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(145,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0821/143645.576:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0821/223227.314:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0821/223545.020:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0821/224312.593:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0821/233357.597:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/011013.214:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/012134.783:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/013454.122:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/014433.810:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/014816.454:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/015700.388:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(133,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(145,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/015700.397:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(59,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(71,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/015700.415:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(62,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(74,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/015700.440:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(59,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(71,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/015729.984:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(133,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(145,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/015901.475:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/015901.568:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(49,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(61,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/020031.548:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(133,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(145,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/020041.763:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/020041.963:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(49,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(61,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/020316.282:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(133,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(145,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/020340.659:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(133,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(145,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/020438.964:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/020439.981:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(133,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(145,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/021307.493:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(133,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(145,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/021329.712:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/021437.260:INFO:CONSOLE(0)] "The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy.", source: https://web.whatsapp.com/ (0)
+[0822/021446.278:INFO:CONSOLE(0)] "The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy.", source: https://web.whatsapp.com/ (0)
+[0822/021654.880:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/022356.515:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/022358.616:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(133,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(145,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/022909.859:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/023553.183:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/024240.446:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/024313.449:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/024654.150:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0822/031359.389:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/031401.226:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(133,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(145,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/031409.693:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(49,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(61,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/031518.997:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/031519.973:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(133,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(145,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/031525.692:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(49,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(61,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/031846.491:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/031848.807:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(133,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(145,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/031854.211:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(49,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(61,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/032101.999:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(69,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(81,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/032102.014:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(62,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(74,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/032102.022:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(59,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(71,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/032102.031:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(59,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(71,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/032102.321:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(133,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(145,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/032108.416:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/032108.542:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(49,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(61,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/032251.860:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/032252.972:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(133,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(145,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/035021.710:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/035123.805:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/140508.477:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_NAME_NOT_RESOLVED", source: https://web.whatsapp.com/app.696e69d51d821d44fec9.js (1)
+[0822/141018.874:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/142841.184:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/143025.197:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/143033.905:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(62,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(74,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/143033.919:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(59,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(71,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/143242.910:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(133,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(145,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/143251.304:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/143251.547:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(49,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(61,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/143641.311:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/145708.793:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/145840.079:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/150312.928:ERROR:command_buffer_proxy_impl.cc(122)] ContextResult::kTransientFailure: Failed to send GpuChannelMsg_CreateCommandBuffer.
+[0822/150635.889:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(133,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(145,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/150642.442:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/150902.159:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/162459.949:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.696e69d51d821d44fec9.js (1)
+[0822/162519.692:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/162639.888:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/163504.239:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/163505.276:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(133,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(145,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/163514.497:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(49,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(61,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/163649.856:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/163815.257:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/164106.352:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/170013.508:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/170013.518:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(62,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(74,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/170013.530:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(69,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(81,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/170014.157:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(133,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(145,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/171520.393:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(133,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(145,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/171528.526:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/171528.645:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(49,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(61,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/172528.796:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/174357.927:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(69,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(81,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/174357.939:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(59,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(71,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/174357.952:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(62,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(74,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/174357.961:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(59,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(71,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/174358.064:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(133,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(145,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0822/212153.512:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(40,7-55): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(52,8-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
